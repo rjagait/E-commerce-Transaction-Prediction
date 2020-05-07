@@ -4,6 +4,9 @@ Not all visits to a website conclude in an eCommerce transaction. Only a relativ
 
 The source of the dataset is Kaggle, https://www.kaggle.com/roshansharma/online-shoppers-intention and consists of feature vectors belonging to 12,330 sessions. Each session belongs to a different user in one year so that there is no pattern concerning user profile, special days or season.
 
+![Project Flow](https://user-images.githubusercontent.com/55213734/81354860-aa046700-909a-11ea-805e-0619132ebbb6.PNG)
+
+
 ###	Data Preprocessing
 1.	Removing missing points
 1.	One Hot Encoding the ‘month’ feature.
